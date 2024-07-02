@@ -1,9 +1,5 @@
-23.162.136.169
-47.254.66.75
-proxyip.fxxk.dedyn.io
-cdn.xn--b6gac.eu.org
+ni.radically.pro
+de.radically.pro
+usa.revil.link
+ipdb.rr.nu
 cdn-all.xn--b6gac.eu.org
-cdn-b100.xn--b6gac.eu.org
-cdn.anycast.eu.org
-proxyip.multacom.fxxk.dedyn.io
-proxyip.vultr.fxxk.dedyn.io
